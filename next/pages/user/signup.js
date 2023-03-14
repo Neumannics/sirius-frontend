@@ -1,3 +1,6 @@
+
+
+
 const Signup = () => {
     return (
 
@@ -93,7 +96,7 @@ const Signup = () => {
                                 </li>
 
                             </ul>
-                            <input type="submit" value="Submit"/>
+                            <input onSubmit={get} type="submit" value="Submit"/>
                             </form>
                         </div>
                 </div>

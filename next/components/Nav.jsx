@@ -25,7 +25,7 @@ const Nav = ()=>{
             <span>About us</span>
           </a>
           <a
-            href="#"
+            href="/teams/create"
             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-white-400 items-center justify-center hover:bg-gray-900 hover:text-white"
           >
             <span>Start a Team</span>
